@@ -82,6 +82,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Test01.cs" />
     <Compile Include="ViewModels\PersonalSpaceViewModel.cs" />
     <Compile Include="ViewModels\ProjectSpaceViewModel.cs" />
     <Compile Include="ViewModels\ResourcesViewModel.cs" />
