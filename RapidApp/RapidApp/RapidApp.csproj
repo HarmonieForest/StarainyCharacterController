@@ -82,6 +82,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Mark02.cs" />
+    <Compile Include="Mark03.cs" />
+    <Compile Include="Mark04.cs" />
     <Compile Include="Mark1.cs" />
     <Compile Include="Test01.cs" />
     <Compile Include="ViewModels\PersonalSpaceViewModel.cs" />
