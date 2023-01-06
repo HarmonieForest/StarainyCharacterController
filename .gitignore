@@ -363,3 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 /RapidApp/RapidApp/RapidApp.csproj
 /RapidApp/RapidApp/RapidApp.csproj
+RapidApp/RapidApp/测试.cs

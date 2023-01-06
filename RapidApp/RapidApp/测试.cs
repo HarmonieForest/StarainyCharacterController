@@ -8,5 +8,6 @@ namespace RapidApp
 {
     internal class 测试
     {
+        int i = 10;
     }
 }

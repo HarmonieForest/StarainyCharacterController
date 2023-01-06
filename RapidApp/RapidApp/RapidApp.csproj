@@ -99,6 +99,7 @@
     <Compile Include="Views\ResourcesView.xaml.cs">
       <DependentUpon>ResourcesView.xaml</DependentUpon>
     </Compile>
+    <Compile Include="测试.cs" />
     <Page Include="Views\LoginView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
