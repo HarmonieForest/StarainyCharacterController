@@ -86,6 +86,7 @@
     <Compile Include="Mark03.cs" />
     <Compile Include="Mark05.cs" />
     <Compile Include="Mark1.cs" />
+    <Compile Include="move.cs" />
     <Compile Include="Test01.cs" />
     <Compile Include="ViewModels\PersonalSpaceViewModel.cs" />
     <Compile Include="ViewModels\ProjectSpaceViewModel.cs" />
